@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-<!--**mohmed-ahmed-01097/mohmed-ahmed-01097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+<!--**mohmed-ahmed-01097/mohmed-ahmed-01097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a freelancer
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+-->
 
 <h3 align="center">
   Welcome to mohmed-ahmed-01097 profile!
@@ -12,19 +22,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20SW%20Engineer;Always%20learning%20new%20things&font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=50&theme=react"></a>
 </p> 
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
 - 🏢 I'm a Embedded SW Engineer
 - 🌱 I'm constantly learning and exploring new technologies to improve my skills in Advanced Topics.
-- 💬 Ask me about my experience with JavaScript, CSS3, Html5, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 🔭 I’m currently working as a freelancer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about my experience with Embedded anything related to Embedded SW.
+- ⚡ Fun Fact: I'm an anime enthusiast and my perfect day would start and end with an anime video.
 
 ## 📜 Repos
 
