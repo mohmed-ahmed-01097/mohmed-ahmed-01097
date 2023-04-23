@@ -32,7 +32,7 @@
 <div align="left">
   <a href="https://github.com/mohmed-ahmed-01097/C_Examples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohmed-ahmed-01097&repo=C_Examples&theme=react&hide_border=true&show_icons=false" alt="C Examples" /></a>
   <a href="https://github.com/mohmed-ahmed-01097/MCU_Drivers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohmed-ahmed-01097&repo=MCU_Drivers&theme=react&hide_border=true&show_icons=false" alt="Microcontroller Drivers" /></a>
-  <a href="https://github.com/mohmed-ahmed-01097/ES_Diploma_97"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohmed-ahmed-01097&repo=C_Examples&theme=react&hide_border=true&show_icons=false" alt="Embedded System Diploma @97" /></a>
+  <a href="https://github.com/mohmed-ahmed-01097/ES_Diploma_97"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohmed-ahmed-01097&repo=ES_Diploma_97&theme=react&hide_border=true&show_icons=false" alt="Embedded System Diploma @97" /></a>
 </div>
 
 ## 📈 Stats
