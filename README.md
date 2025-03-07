@@ -2,6 +2,7 @@
 
 I'm an Embedded Software Engineer passionate about creating efficient, robust solutions for embedded systems and Model-Based Development.
 
+<br>
 <img align="right" width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" />
 
 <!--**mohmed-ahmed-01097/mohmed-ahmed-01097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +29,7 @@ I'm an Embedded Software Engineer passionate about creating efficient, robust so
 - 💬 Ask me about my experience with Embedded anything related to Embedded SW.
 - ⚡ Fun Fact: I'm an anime enthusiast and my perfect day would start and end with an anime video.
 
+📝 ***Contact Me...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/mohmed-ahmed-01097?label=Follow%20Me&style=social)](https://github.com/mohmed-ahmed-01097)
 ## 📜 Repos
 
 <div align="left">
@@ -36,6 +38,9 @@ I'm an Embedded Software Engineer passionate about creating efficient, robust so
   <a href="https://github.com/mohmed-ahmed-01097/MCU_Drivers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohmed-ahmed-01097&repo=MCU_Drivers&theme=react&hide_border=true&show_icons=false" alt="Microcontroller Drivers" /></a>
   <a href="https://github.com/mohmed-ahmed-01097/ES_Diploma_97"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohmed-ahmed-01097&repo=ES_Diploma_97&theme=react&hide_border=true&show_icons=false" alt="Embedded System Diploma @97" /></a>
 </div>
+
+## 📈 My Contributions <br>
+![trophy](https://github-profile-trophy.vercel.app/?username=mohmed-ahmed-01097&theme=onedark)
 
 ## 📈 GitHub Stats
 
@@ -53,8 +58,13 @@ I'm an Embedded Software Engineer passionate about creating efficient, robust so
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse&logoColor=331177)&nbsp;
 
+<a href="https://komarev.com/ghpvc/?username=mohmed-ahmed-01097&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=mohmed-ahmed-01097&style=for-the-badge">
+</a>
+
 ### Connect with Me :
-<a href="mailto:mohmedahmed01097@gmail.com"><img src="https://img.shields.io/badge/-Mohamed%20Ahmed-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
-<a href="https://www.linkedin.com/in/mohamedahmed01097/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Ahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/mohmedahmed01097" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Ahmed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://komarev.com/ghpvc/?username=mohmed-ahmed-01097&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=mohmed-ahmed-01097&style=for-the-badge"></a>
+[![Mail](https://img.shields.io/badge/Mohamed%20Ahmed-D14836?logo=Gmail&logoColor=D14836&labelColor=black)](mailto:mohmedahmed01097@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Mohamed%20Ahmed-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/mohamedahmed01097/)
+[![Linkedin](https://img.shields.io/badge/Mohamed%20Ahmed-2EC866?logo=HackerRank&logoColor=2EC866&labelColor=black)](https://www.hackerrank.com/mohmedahmed01097)
+[![Linkedin](https://img.shields.io/badge/Mohamed%20Ahmed-0077B5?logo=Facebook&logoColor=0077B5&labelColor=black)](https://www.facebook.com/mohmedahmed01097)
+[![Github](https://img.shields.io/github/followers/mohmed-ahmed-01097?label=Follow%20Me&style=social)](https://github.com/mohmed-ahmed-01097)
