@@ -21,7 +21,7 @@ I'm an Embedded Software Engineer passionate about creating efficient, robust so
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20SW%20Engineer;Always%20learning%20new%20things&font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=50&theme=react"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20SW%20Engineer;Model-Based%20Development;Always%20learning%20new%20things&font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=50&theme=react"></a>
 </p> 
 
 - 🏢 I'm a Embedded SW Engineer
